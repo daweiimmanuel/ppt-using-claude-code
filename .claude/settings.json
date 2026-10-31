@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-skills": {
+      "source": {
+        "source": "github",
+        "repo": "alextimmer/claude-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "claude-memory-harness@claude-skills": true,
+    "reviewing-prs@claude-skills": true,
+    "mbb-deck-plugin@claude-skills": true
+  }
+}
